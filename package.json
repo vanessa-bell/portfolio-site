@@ -1,0 +1,17 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanessa Bell",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "swig": "^1.4.2"
+  }
+}
