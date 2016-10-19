@@ -205,6 +205,9 @@ hr.small {
     height: 250px;
 }
 
+video {
+    height: 250px;
+}
 .img-portfolio:hover {
     opacity: 0.8;
 }
