@@ -203,6 +203,7 @@ hr.small {
     margin: 0 auto;
     padding: 10px;
     height: 250px;
+    max-width: 400px;
 }
 
 video {
